@@ -1,0 +1,12 @@
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\Ajay-LNG\source\repos\GenericRestService\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache

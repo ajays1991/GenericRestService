@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericRestService", "GenericRestService\GenericRestService.csproj", "{C0D15171-1B67-4CB5-9F1F-F0E9B079C2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{C66A4157-A343-4F65-B962-EB92BAFE7871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D15171-1B67-4CB5-9F1F-F0E9B079C2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D15171-1B67-4CB5-9F1F-F0E9B079C2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D15171-1B67-4CB5-9F1F-F0E9B079C2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D15171-1B67-4CB5-9F1F-F0E9B079C2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66A4157-A343-4F65-B962-EB92BAFE7871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66A4157-A343-4F65-B962-EB92BAFE7871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66A4157-A343-4F65-B962-EB92BAFE7871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66A4157-A343-4F65-B962-EB92BAFE7871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA1328C-718D-489A-8FD2-9BD1C7A8B1DA}
+	EndGlobalSection
+EndGlobal
